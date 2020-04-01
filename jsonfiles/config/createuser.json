@@ -1,3 +1,12 @@
 {
-  "username": "123qwe"
+  "message_id": "780F24D6-E41B-708A-AC2C-5AE5482DB914",
+  "action": "config/createuser",
+  "callback": "",
+  "data":{
+    "username":"vhake2",
+    "password":"libaiqi123",
+    "repassword": "libaiqi123"
+  },
+  "message":"",
+  "code":0
 }
